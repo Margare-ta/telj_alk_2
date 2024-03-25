@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+}
+
+button{
+  margin: 5%;
+}
+
+.tdd{
+  margin: 10%;
+}
+
+body{
+  background-image: url('background.png');
+}
+
+input{
+  background-color: rgb(162, 165, 168);
+  color: rgb(39, 78, 95);
+  font-weight: bolder;
+}
